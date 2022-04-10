@@ -43,3 +43,8 @@ The purpose of this project is to analyze, using tools including Tableau and Pyt
 - User Trips by Gender by weekday heatmap shows bulk of riders are male subscribers.   
 
 ## Summary
+Bikesharing services have proven to be popular in high-density metropolitan areas, where automobile traffic is dense and parking is at a premium.  This analysis shows that users of bikesharing in New York are primarily male subscribers to the service, and prime usage is during normal work commuting days/hours. 
+
+Some further potential areas to consider for analysis might include:
+- Inclusion of weather data to find any correlation between weather and the number of riders,
+- Further study of high-usage bikeshare locations to see if there is a correlation between the location and proximity to typical visitor/sightseeing locations, as well as the duration of trips in these high-usage locations.  
